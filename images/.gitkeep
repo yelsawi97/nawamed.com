@@ -1,6 +1,5 @@
-git clone https://github.com/yelsawi97/nawamed.com.git
-cd nawamed.com/images
-# Copy your images here
-git add images/mango-cut.jpg images/mango-slices.jpg images/mango-box.jpg images/mango-pallet.jpg
-git commit -m "Add mango images"
-git push
+image/mango-cut.jpg
+image/mango-slices.jpg
+image/mango-box-small.jpg
+image/mango-box-big.jpg
+image/mango-pallete.jpg
